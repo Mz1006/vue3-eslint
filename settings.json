@@ -1,0 +1,13 @@
+{
+	"editor.fontSize": 15,
+	"typescript.locale": "zh-CN",
+	"workbench.colorTheme": "One Dark Theme",
+	"editor.tabSize": 2,
+	"editor.codeActionsOnSave": {
+			"source.fixAll.eslint": true
+	},
+	"eslint.format.enable": true,
+"eslint.validate": ["javascript", "vue", "html"],
+// 关闭 vetur 自带lint验证
+"vetur.validation.template": false
+}
