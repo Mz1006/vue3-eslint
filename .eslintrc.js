@@ -18,6 +18,7 @@ module.exports = {
     "quote-props":[2, "as-needed"],     // 双引号自动变单引号
     "semi": [2, "never"],               // 一行结尾不要写分号
     "comma-dangle": [1,"always-multiline"],  // 对象或数组多行写法时，最后一个值加逗号
-		"no-tabs": "off"
+		"no-tabs": "off",
+		"no-console": "off"
   }
 }
