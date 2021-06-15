@@ -33,9 +33,9 @@
 <script>
 export default {
   name: 'HelloWorld',
-  props: {
-    msg: String,
-  },
+  // props: {
+  //   msg: String,
+  // },
 }
 </script>
 
@@ -43,7 +43,7 @@ export default {
 <style lang="scss" scoped>
 h3 {
   margin: 40px 0 0;
-	color: green;
+	// color: $pink;
 }
 ul {
   list-style-type: none;
